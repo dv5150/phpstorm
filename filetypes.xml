@@ -5,7 +5,6 @@
       <mapping pattern="Relationships\OEEHasmany" type="PHP" />
       <mapping pattern="landing" type="PHP" />
       <mapping pattern="L1Element" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="SearchAspects.php" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
