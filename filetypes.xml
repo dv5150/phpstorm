@@ -6,6 +6,7 @@
       <mapping pattern="landing" type="PHP" />
       <mapping pattern="L1Element" type="PLAIN_TEXT" />
       <mapping pattern="SearchAspects.php" type="PLAIN_TEXT" />
+      <mapping pattern="language-switcher" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
