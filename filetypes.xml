@@ -9,6 +9,7 @@
       <mapping pattern="language-switcher" type="PLAIN_TEXT" />
       <mapping pattern="backBtnCss" type="PLAIN_TEXT" />
       <mapping pattern="SearchAspects.php" type="PLAIN_TEXT" />
+      <mapping pattern="appointment-created" type="PLAIN_TEXT" />
       <mapping ext="webarchive" type="PLAIN_TEXT" />
       <mapping pattern="TourGuideForm" type="Vue.js" />
     </extensionMap>
