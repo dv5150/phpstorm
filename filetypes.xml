@@ -7,7 +7,6 @@
       <mapping pattern="landing" type="PHP" />
       <mapping pattern="L1Element" type="PLAIN_TEXT" />
       <mapping pattern="language-switcher" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="backBtnCss" type="PLAIN_TEXT" />
       <mapping pattern="SearchAspects.php" type="PLAIN_TEXT" />
       <mapping pattern="appointment-created" type="PLAIN_TEXT" />
