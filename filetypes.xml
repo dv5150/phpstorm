@@ -12,6 +12,7 @@
       <mapping pattern="appointment-created" type="PLAIN_TEXT" />
       <mapping ext="webarchive" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping pattern="TourGuideForm" type="Vue.js" />
     </extensionMap>
   </component>
