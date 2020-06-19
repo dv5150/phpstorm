@@ -6,6 +6,7 @@
       <mapping pattern="Relationships\OEEHasmany" type="PHP" />
       <mapping pattern="landing" type="PHP" />
       <mapping pattern="L1Element" type="PLAIN_TEXT" />
+      <mapping pattern="855f92484c8c414d36c1b25cb24876e30229cbbf" type="PLAIN_TEXT" />
       <mapping pattern="language-switcher" type="PLAIN_TEXT" />
       <mapping pattern="backBtnCss" type="PLAIN_TEXT" />
       <mapping pattern="SearchAspects.php" type="PLAIN_TEXT" />
