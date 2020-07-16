@@ -13,8 +13,12 @@
       <mapping pattern="appointment-created" type="PLAIN_TEXT" />
       <mapping ext="webarchive" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="pubkey" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="der" type="PLAIN_TEXT" />
+      <mapping ext="pfx" type="PLAIN_TEXT" />
+      <mapping ext="privkey" type="PLAIN_TEXT" />
       <mapping pattern="TourGuideForm" type="Vue.js" />
     </extensionMap>
   </component>
