@@ -1,10 +1,21 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.SetDefault" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="meta f15" />
+    <keyboard-shortcut first-keystroke="alt f15" />
+    <keyboard-shortcut first-keystroke="alt help" />
+  </action>
   <action id="Console.TableResult.Reload" />
   <action id="DatabaseView.Refresh" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="GotoTest" />
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta alt back_quote" />
+    <keyboard-shortcut first-keystroke="alt tab" />
+  </action>
+  <action id="NextSplitter" />
   <action id="Refresh" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
