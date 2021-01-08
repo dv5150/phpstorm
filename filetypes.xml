@@ -1,8 +1,7 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="btn-company-readmore" type="Blade" />
-      <mapping ext="ng" type="HTML" />
       <mapping pattern="Relationships\OEEHasmany" type="PHP" />
       <mapping pattern="Galleries/LoadImages" type="PHP" />
       <mapping pattern="landing" type="PHP" />
@@ -22,10 +21,10 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="pubkey" type="PLAIN_TEXT" />
       <mapping pattern="TourGuideForm" type="Vue.js" />
-      <mapping pattern="tsconfig.app.json" type="tsconfig" />
-      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
       <mapping pattern="tsconfig.spec.json" type="tsconfig" />
+      <mapping pattern="tsconfig.app.json" type="tsconfig" />
       <mapping pattern="tsconfig.lib.json" type="tsconfig" />
+      <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
     </extensionMap>
   </component>
 </application>
