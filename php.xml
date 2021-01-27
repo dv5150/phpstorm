@@ -17,10 +17,10 @@
           <additional_php_ini>/usr/local/etc/php/7.4/conf.d/error_log.ini, /usr/local/etc/php/7.4/conf.d/ext-opcache.ini, /usr/local/etc/php/7.4/conf.d/php-memory-limits.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.4/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.4/7.4.14_1/share/php@7.4/pear" />
+            <configuration_option name="include_path" value=".:/Users/david/pear/share/pear" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="3.0.2">
+            <debugger_info debugger="xdebug" debugger_version="2.9.8">
               <debug_extensions />
             </debugger_info>
           </debuggers>
