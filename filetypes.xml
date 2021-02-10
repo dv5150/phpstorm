@@ -1,19 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="company.blade.php" type="AUTO_DETECTED" />
       <mapping ext="log" type="AUTO_DETECTED" />
-      <mapping pattern="btn-company-readmore" type="Blade" />
       <mapping pattern="Relationships\OEEHasmany" type="PHP" />
       <mapping pattern="Galleries/LoadImages" type="PHP" />
       <mapping pattern="landing" type="PHP" />
-      <mapping pattern="appointment-created" type="PLAIN_TEXT" />
-      <mapping pattern="SearchAspects.php" type="PLAIN_TEXT" />
-      <mapping pattern="backBtnCss" type="PLAIN_TEXT" />
-      <mapping pattern="855f92484c8c414d36c1b25cb24876e30229cbbf" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="language-switcher" type="PLAIN_TEXT" />
-      <mapping pattern="L1Element" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
@@ -22,11 +14,19 @@
       <mapping ext="privkey" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="pubkey" type="PLAIN_TEXT" />
-      <mapping pattern="TourGuideForm" type="Vue.js" />
       <mapping pattern="tsconfig.spec.json" type="tsconfig" />
       <mapping pattern="tsconfig.app.json" type="tsconfig" />
       <mapping pattern="tsconfig.lib.json" type="tsconfig" />
       <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
+      <removed_mapping pattern="855f92484c8c414d36c1b25cb24876e30229cbbf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="L1Element" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="SearchAspects.php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="TourGuideForm" approved="true" type="Vue.js" />
+      <removed_mapping pattern="appointment-created" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="backBtnCss" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="btn-company-readmore" approved="true" type="Blade" />
+      <removed_mapping pattern="company.blade.php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="language-switcher" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
