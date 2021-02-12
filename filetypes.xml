@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="bar" type="AUTO_DETECTED" />
       <mapping ext="log" type="AUTO_DETECTED" />
       <mapping pattern="Relationships\OEEHasmany" type="PHP" />
       <mapping pattern="Galleries/LoadImages" type="PHP" />
