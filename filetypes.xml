@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="bar" type="AUTO_DETECTED" />
-      <mapping ext="log" type="AUTO_DETECTED" />
       <mapping pattern="Relationships\OEEHasmany" type="PHP" />
       <mapping pattern="Galleries/LoadImages" type="PHP" />
       <mapping pattern="landing" type="PHP" />
@@ -19,6 +18,7 @@
       <mapping pattern="tsconfig.app.json" type="tsconfig" />
       <mapping pattern="tsconfig.lib.json" type="tsconfig" />
       <mapping pattern="tsconfig.e2e.json" type="tsconfig" />
+      <removed_mapping ext="log" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="855f92484c8c414d36c1b25cb24876e30229cbbf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="L1Element" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="SearchAspects.php" approved="true" type="PLAIN_TEXT" />
