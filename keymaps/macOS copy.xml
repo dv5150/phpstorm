@@ -49,12 +49,8 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
-  <action id="Replace" />
   <action id="Rerun" />
   <action id="ServiceView.ShowServices" />
-  <action id="SynchronizeCurrentFile">
-    <keyboard-shortcut first-keystroke="meta r" />
-  </action>
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.UpdateProject" />
 </keymap>
