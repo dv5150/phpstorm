@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="bar" type="AUTO_DETECTED" />
       <mapping pattern="Relationships\OEEHasmany" type="PHP" />
       <mapping pattern="Galleries/LoadImages" type="PHP" />
       <mapping pattern="landing" type="PHP" />
@@ -25,9 +24,11 @@
       <removed_mapping pattern="TourGuideForm" approved="true" type="Vue.js" />
       <removed_mapping pattern="appointment-created" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="backBtnCss" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="bar" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="btn-company-readmore" approved="true" type="Blade" />
       <removed_mapping pattern="company.blade.php" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="language-switcher" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="receivesEmbeddedContents.js" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
