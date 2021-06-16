@@ -5,11 +5,4 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="log" value="console.log();" description="Console Log" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="true" />
-      <option name="Vue" value="true" />
-    </context>
-  </template>
 </templateSet>
